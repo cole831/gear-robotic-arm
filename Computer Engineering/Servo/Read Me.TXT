@@ -1,3 +1,0 @@
-An layer of code to be run on the raspberry pi that sits between the AI issuing these commands(Also on the Pi) and the actual motor code itself(Likely on the arduino).
-Obviously unfinished since we dont have the actual motors yet but when they appear I will write that in and we can figure out how to do the inter-board communication. 
-Cole mentioned somthing about I2C communication and hosting a bunch of motors over an arduino. Somthing he heard of someone else doing- a redit thread.

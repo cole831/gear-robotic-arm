@@ -1,0 +1,3 @@
+Inverse Kinematics starting point. Check the two folders for the two versions of the code and their demo exe's or view the gif. 
+
+The cpp file here is what we will develop and add to, currently it is mostly writen in java and intended to be run in the app confusingly named "Proccessing".

@@ -1,4 +1,0 @@
-Example of Inverse Kinematics with angle limitations.
-These angle limitations can be changed and unique for each segment of the arm but are currently set at -150 and 150. 
-Each segment is not allowed to point in the 60 degree arc below it.
-To run demo open the "windows-amd64" folder and run the exe.

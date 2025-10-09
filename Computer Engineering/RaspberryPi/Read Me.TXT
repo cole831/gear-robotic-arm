@@ -1,2 +1,0 @@
-Servo(RPi).cpp is the request code for the arduino. Make call to one of those functions and the arduino should recieve a signal somehow to execute a mirrored command.
-Inverse kinematics is tracing a location to a set of individual rotations on an arm or other limb. Two examples are in the folder. This would be just above the Servo(RPi).cpp and below AI.

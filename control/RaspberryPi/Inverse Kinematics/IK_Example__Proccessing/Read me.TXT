@@ -1,0 +1,2 @@
+Example of Inverse Kinematics with no angle limitations.
+To run demo open the "windows-amd64" folder and run the exe.
