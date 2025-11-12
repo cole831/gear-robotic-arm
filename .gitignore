@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/gear-robotic-arm/CopilotIndices/17.14.1368.60722
+/.vs/gear-robotic-arm/FileContentIndex
+/.vs/gear-robotic-arm/v17
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
