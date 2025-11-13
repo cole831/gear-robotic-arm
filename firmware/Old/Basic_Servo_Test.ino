@@ -2,7 +2,7 @@
 // 10-4-2025 to 10-6-2025
 // Sebastian Van Deren
 // Gavilan GEAR CLUB
-// Robotic Arm Project - Servo Control
+// Robotic Arm Project - Basic Servo Control
 
 #include <Servo.h>
 
